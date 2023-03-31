@@ -877,6 +877,11 @@ img:hover, .today_deals_product_item:hover,.discount_Contaienr:hover, .today_dea
     font-family: Arial,sans-serif;
 }
 
+.table ul li:hover {
+    text-decoration: underline;
+    
+}
+
 .copy {
     background-color: #232f3e;
     height: 90px;
