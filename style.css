@@ -736,6 +736,13 @@ img:hover, .today_deals_product_item:hover,.discount_Contaienr:hover, .today_dea
     2px 2px 5px rgba(0, 0, 0, 0.1);
     
 }
+
+.product_container_slider_btn_container_1:hover, 
+.product_container_slider_btn_container_2:hover , 
+.product_container_slider_btn_container_3:hover,
+.today_deals_btn_container:hover {
+    cursor: pointer;
+}
 .product_container_slider_heading_2, .product_container_slider_heading_3 {
     display: flex;
     align-items: center;
